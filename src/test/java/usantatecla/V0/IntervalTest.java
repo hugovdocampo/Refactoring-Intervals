@@ -1,8 +1,9 @@
-package usantatecla;
+package usantatecla.V0;
 
 import static org.junit.jupiter.api.Assertions.assertTrue;
 
 import org.junit.jupiter.api.Test;
+import usantatecla.V0.Interval;
 
 public class IntervalTest {
   
