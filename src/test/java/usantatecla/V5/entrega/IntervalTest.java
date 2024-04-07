@@ -1,4 +1,4 @@
-package usantatecla.V5;
+package usantatecla.V5.entrega;
 
 import org.junit.jupiter.api.Test;
 import usantatecla.V4.refactor.Extremo;
